@@ -1,0 +1,12 @@
+<DOCTYPE! html>
+<html>
+<head>
+<form>
+<label> Color </label> <br/>
+<select name="color">
+<option value="0"></option>
+<option value="1">Azul</option>
+<option value="2">Negro</option>
+<option value="3" selected="selected"> Blanco </option>
+</select>
+</form>
